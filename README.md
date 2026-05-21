@@ -44,6 +44,9 @@ tags:
 
 Copyright (C) 2026 Joseph Stone — All Rights Reserved
 
+nearly 2000 downloads in under 30 days on huggingface
+https://huggingface.co/datasets/JosephStoneCellAI/SPFsmartGATE/blob/main/SPFsmartGATE.zip
+
 ---
 
 ## Quick Start
